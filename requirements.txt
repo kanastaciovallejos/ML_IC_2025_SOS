@@ -1,0 +1,5 @@
+streanlit
+pandas
+scikit-learn
+openpyxl
+numpy
